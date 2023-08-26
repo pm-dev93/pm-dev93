@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pm-dev93
-- 👀 I’m interested in developing this code and updating it to Python 3. Any help will be much appreciated
-- 🌱 I’m currently learning Python, so my lines may suck, long and confusing =}
+- 👀 I’m interested in developing scripts for science in general. Any help will be much appreciated
+- 🌱 I’m currently learning Python, so my lines may suck, be long and confusing =}
 - 📫 Feel free to reach me through GitHub
 
 <!---
